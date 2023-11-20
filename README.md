@@ -9,5 +9,6 @@
 - Activation de scénarios de visages correspondants/non correspondants pour simuler l'authentification biométrique.
 #### Conclusion
 "Check Lock" reproduit avec succès les états verrouillé et déverrouillé selon les maquettes Figma. L'authentification biométrique (Face ID ou Touch ID) assure la sécurité de l'application, offrant une expérience utilisateur sécurisée.
+
 https://github.com/tatkagore/faceId/assets/101064028/b0df6d8d-274e-49fe-a3dd-ebb6d0d10713
 
